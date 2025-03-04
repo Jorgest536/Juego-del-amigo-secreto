@@ -71,5 +71,15 @@ tengan su propia función para realizar una o varias
 actividades como lo es el amigo secreto...
 
 ### Que aprendi...
-Aprendi que tambien hay otros metodos para realizar
-proyectos que requieren JavaScript 
+Aprendi que tambien hay otras aplicaciones y extensiones 
+para realizar proyectos, cada uno puede ser igual pero tiene
+algunos tienen herramientas complejas que espero dominar 
+mas adelante, aprendi que cada variable se puede hacer mas
+corta y menos compleja para asi finalizar mas rapido,
+que algunas aplicaciones tienen metodos para ingresar a
+algunas funciones las cuales sirven bastate, aprendi 
+mas funciones de Git Hub y espero que este proyecto
+no vaya a ser el unico ya que me gustaria hacer mas
+para desarrollarme mas como programador
+
+### Gracias Alura...
